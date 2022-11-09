@@ -1,4 +1,4 @@
-function mooncakeSays(message){
+function mooncakeSays(message)
   let mooncake = '(o.o)';
 
   if ( !message ) {
