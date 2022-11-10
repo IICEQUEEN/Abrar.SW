@@ -2,9 +2,10 @@ function mooncakeSays(message){
   console.log("true");
   let mooncake = '(o.o)';
 
-  if ( !message!! ) {
+  if ( !message ) {
     return `${mooncake} chookity?`;
   }
+  console.log("true maather");
 
   return `${mooncake} ${message}`;
 }
