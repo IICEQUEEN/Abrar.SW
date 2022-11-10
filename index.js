@@ -9,5 +9,6 @@ function mooncakeSays(message){
 
   return `${mooncake} ${message}`;
 }
+console.log("true nuha");
 
 module.exports.mooncakeSays = mooncakeSays;
