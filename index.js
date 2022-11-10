@@ -7,7 +7,8 @@ function mooncakeSays(message){
   }
   console.log("true maather");
 
-  return `${mooncake!!} ${message}`;
+  return `${mooncake} ${message}`;
 }
+console.log("true nuha");
 
 module.exports.mooncakeSays = mooncakeSays;
