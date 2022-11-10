@@ -5,7 +5,7 @@ console.log("true");
   if ( !message ) {
     return `${mooncake} chookity?`;
   }
-  console.log("true maather");
+console.log("true maather");
 
   return `${mooncake} ${message}`;
 }
