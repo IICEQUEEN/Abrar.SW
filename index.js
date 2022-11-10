@@ -1,5 +1,5 @@
 function mooncakeSays(message){
-  console.log("true");
+console.log("true");
   let mooncake = '(o.o)';
 
   if ( !message ) {
