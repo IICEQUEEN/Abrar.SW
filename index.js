@@ -10,5 +10,6 @@ console.log("true maather");
   return `${mooncake} ${message}`;
 }
 console.log("true nuha");
+console.log("true renad");
 
-module.exports.mooncakeSays = mooncakeSays!!!;
+module.exports.mooncakeSays = mooncakeSays;
